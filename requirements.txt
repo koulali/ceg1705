@@ -1,6 +1,5 @@
 numpy
 folium
-json
 pandas
 ipywidgets
 ipysheets
