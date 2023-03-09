@@ -1,3 +1,2 @@
 # ceg1705
-# practical 2: Fieldwork report
-# ceg1705
+## Practical 2: Fieldwork report
